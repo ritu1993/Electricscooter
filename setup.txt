@@ -1,0 +1,6 @@
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "php-cs-fixer.formatHtml": true,
+    "php-cs-fixer.onsave": true,
+    "php-cs-fixer.rules": "@PSR1,@PSR2,@Symfony,-yoda_style",
+    "php.executablePath": "C:/wamp64/bin/php/php7.3.21/php.exe",
+    "php.validate.executablePath": "C:/wamp64/bin/php/php7.3.21/php.exe",
